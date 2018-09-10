@@ -1,3 +1,3 @@
 # storeFinderApp
 
-[DEMO](storefinderwebapp.netlify.com)
+Link to the [demo](http://storefinderwebapp.netlify.com)
