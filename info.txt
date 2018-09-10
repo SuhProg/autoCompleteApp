@@ -1,0 +1,5 @@
+Project Name: MyWeatherApplication-100718
+API Key: AIzaSyBseeVWRsSD9cJoIpQh7FVBD4O9OQgVLj4
+Key Name: MyAPIKey
+script for adding the api to the page:
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>

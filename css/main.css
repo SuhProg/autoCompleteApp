@@ -1,0 +1,34 @@
+body {
+    background-image: url(../img/weatherbg.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-decoration: none;
+}
+
+.container {
+    background-color: rgba(10, 10, 10, 0.5);
+    margin: 10% 10%;
+}
+
+.content {
+    padding: 50px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.mytext {
+    padding: 30px 5px;
+}
+
+.title {
+    font-size: 42px;
+}
+
+.newstore{
+    padding: 25px 0;
+}
+
+.plus {
+    font-weight: bold;
+}
